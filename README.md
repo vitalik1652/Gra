@@ -1,5 +1,5 @@
-# Gra "Kółko i krzyżyk"
-### Android-Studio
+# Android-Studio
+### Gra "Kółko i krzyżyk"
 
 - Gra jest przeznaczona dla dwóch osób: „Player 1 i Player 2”.
 - Aby ponownie rozpocząć grę, wystarczy kliknąć przycisk „Resetuj”.
