@@ -27,11 +27,11 @@
 
 ## Screenshots
 > kod w pliku "Main".
-- ![код](https://user-images.githubusercontent.com/61744465/119867812-971b3980-bf1e-11eb-9a8e-3b6b0493ad1a.png)
+ ![код](https://user-images.githubusercontent.com/61744465/119867812-971b3980-bf1e-11eb-9a8e-3b6b0493ad1a.png)
 > ekran początkowy
-- ![початок](https://user-images.githubusercontent.com/61744465/119868180-055ffc00-bf1f-11eb-89e7-f8e1ee2724b4.png)
+ ![початок](https://user-images.githubusercontent.com/61744465/119868180-055ffc00-bf1f-11eb-89e7-f8e1ee2724b4.png)
 > proces gry
-- ![гра](https://user-images.githubusercontent.com/61744465/119868188-07c25600-bf1f-11eb-9cc5-dfc8b1512a3a.png)
+ ![гра](https://user-images.githubusercontent.com/61744465/119868188-07c25600-bf1f-11eb-9cc5-dfc8b1512a3a.png)
 
 
 
