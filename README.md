@@ -21,7 +21,7 @@
 
 
 ## General Information
-- Projekt był zrealizowany że by polepszyć swoje umiejetnosci programowania w języku Java a tak że dla zaliczenia przedmiotu na uczelni WSB Gdańsk "Programowanie ucządzeń mobilnych".
+- Projekt był zrealizowany że by polepszyć swoje umiejętnosci programowania w języku Java a tak że dla zaliczenia przedmiotu na uczelni WSB Gdańsk "Programowanie ucządzeń mobilnych".
 
 
 ## Technologies Used
