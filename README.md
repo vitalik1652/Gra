@@ -26,8 +26,9 @@
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Example screenshot](.![код](https://user-images.githubusercontent.com/61744465/119867812-971b3980-bf1e-11eb-9a8e-3b6b0493ad1a.png)
+
+- kod w pliku "Main".
 
 
 ## Setup
