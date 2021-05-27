@@ -79,7 +79,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.facebook.com/vitalii.sumka) - feel free to contact me!
+Created by [@Vitalii_Sumka](https://www.facebook.com/vitalii.sumka) - feel free to contact me!
 
 
 <!-- Optional -->
