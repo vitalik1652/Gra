@@ -29,9 +29,12 @@
 - kod w pliku "Main".
 (.![код](https://user-images.githubusercontent.com/61744465/119867812-971b3980-bf1e-11eb-9a8e-3b6b0493ad1a.png)
 - ekran początkowy
-(https://user-images.githubusercontent.com/61744465/119868089-e7929700-bf1e-11eb-8961-e9c2e929765f.png)
+- 
+![початок](https://user-images.githubusercontent.com/61744465/119868180-055ffc00-bf1f-11eb-89e7-f8e1ee2724b4.png)
+
 - gra
-(https://user-images.githubusercontent.com/61744465/119868113-f11bff00-bf1e-11eb-9933-93e40043c6b1.png)
+![гра](https://user-images.githubusercontent.com/61744465/119868188-07c25600-bf1f-11eb-9cc5-dfc8b1512a3a.png)
+
 
 
 
