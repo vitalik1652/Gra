@@ -34,7 +34,7 @@
 - ![початок](https://user-images.githubusercontent.com/61744465/119868180-055ffc00-bf1f-11eb-89e7-f8e1ee2724b4.png)
 > proces gry
 > 
- ![гра](https://user-images.githubusercontent.com/61744465/119868188-07c25600-bf1f-11eb-9cc5-dfc8b1512a3a.png)
+- ![гра](https://user-images.githubusercontent.com/61744465/119868188-07c25600-bf1f-11eb-9cc5-dfc8b1512a3a.png)
 
 
 
