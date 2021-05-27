@@ -26,8 +26,15 @@
 
 
 ## Screenshots
-(.![код](https://user-images.githubusercontent.com/61744465/119867812-971b3980-bf1e-11eb-9a8e-3b6b0493ad1a.png) - kod w pliku "Main".
- - kod w pliku "Main".
+- kod w pliku "Main".
+(.![код](https://user-images.githubusercontent.com/61744465/119867812-971b3980-bf1e-11eb-9a8e-3b6b0493ad1a.png)
+- ekran początkowy
+(https://user-images.githubusercontent.com/61744465/119868089-e7929700-bf1e-11eb-8961-e9c2e929765f.png)
+- gra
+(https://user-images.githubusercontent.com/61744465/119868113-f11bff00-bf1e-11eb-9933-93e40043c6b1.png)
+
+
+
 
 
 ## Setup
