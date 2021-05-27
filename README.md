@@ -26,7 +26,8 @@
 
 
 ## Screenshots
-> 
+> ekran początkowy
+>
 - ![початок](https://user-images.githubusercontent.com/61744465/119868180-055ffc00-bf1f-11eb-89e7-f8e1ee2724b4.png)
 > proces gry
 > 
